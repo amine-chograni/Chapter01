@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="AboutMyEnvironment/AboutMyEnvironment.csproj" Id="95ec18ce-3bb8-4451-a1c0-4c364431d552" />
   <Project Path="HelloCS/HelloCS.csproj" />
 </Solution>
