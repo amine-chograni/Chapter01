@@ -45,8 +45,6 @@ Si aucun test n'est présent, créer un projet de tests avec :
   - `git checkout -b feat/ma-fonctionnalite`
 - Faire une PR détaillée vers `master`.
 
-## Licence
-Ajouter ici le type de licence utilisé (ex. `MIT`) ou supprimer cette section si non applicable.
 
 ## Contact
 Pour questions ou suggestions, ouvrir une issue sur le dépôt :  
